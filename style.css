@@ -1,0 +1,21 @@
+.my-nav{
+  
+  background-color: #3493cb;
+  width: 100%;
+  position: fixed;
+
+}
+
+.my-nav ul li{
+  display: inline;
+  color: white;
+  padding: 15px;
+}
+
+.my-nav ul li:hover{
+  background-color: #1f587a;
+}
+
+
+
+
